@@ -97,12 +97,29 @@ Bid farewell to a server by sending a DELETE request to `/api/servers/{id}`. The
 
 Need to find servers by name? Use `/api/servers/findByName?name=ServerName` to get all servers with matching names.
 
+## Testing With Postman
+
+#### Create Server
+![App Screenshot](https://drive.google.com/uc?id=1ezt912aEXuSkapDF9qfan7BTS-NpIqp7)
+
+![App Screenshot](https://drive.google.com/uc?id=1p0iGF1t3Rc0apF43wAnWWqF4eG1Yt9PT)
+
+
+#### Get all Servers
+![App Screenshot](https://drive.google.com/uc?id=1eJEaYdNRP7zDD-3HA-fgTLTUXMtebZ5t)
+
+
+#### Get Server by ID
+![App Screenshot](https://drive.google.com/uc?id=15Y4E53wPiE3-QDY7h9m0O48aN3KWIuXL)
 
 
 
+#### Find Servers by Name
+![App Screenshot](https://drive.google.com/uc?id=19Q0BTA1mREzUyAmpQmfu1xv4f5gaJUyl)
 
 
-
+#### Delete Server by ID
+![App Screenshot](https://drive.google.com/uc?id=1bIiLpAWRTenqYNuLOBWuNp8ML5xsTAhG)
 
 
 
