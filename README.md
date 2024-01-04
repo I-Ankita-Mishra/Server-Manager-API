@@ -1,4 +1,4 @@
-# Kaiburr-Task-1 : Server Manager API
+# Server Manager API
 Welcome to the Server Manager API, a robust Java-based RESTful service that allows you to effortlessly manage and monitor your server infrastructure. This project showcases the power of Spring Boot and MongoDB in building a seamless API for your server management needs.
 
 ## **✨Quick Start**
